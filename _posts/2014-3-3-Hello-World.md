@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: Week 1
---
+---
 
 Based on my past experience with Downing, I have great expectations from this class. I previously took his Object Oriented Programming class, and felt that he taught me a lot more than any of my other classes have. Although I will dread the times when he will call on me during class, I think this class will still be enjoyable. I hope that I will be more prepared now that I have some experience with him. One of the things that I will be looking forward to would be the group project. In OOP, Downing never had any group projects, only pairs at most, so I feel this will be a good experience in working with a team of colleagues.
 
